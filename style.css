@@ -1,7 +1,7 @@
 body {
     background:rgb(236, 56, 191);
     color: rgb(45, 45, 45);
-    padding: 10px;
+    padding: 14px;
     font-family: arial;
 }
 #all-contents {
@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(167, 244, 247);
+    background: rgb(211, 168, 252);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -37,7 +37,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: hsla(345, 90%, 54%, 0.781);
+    background: hsla(313, 85%, 70%, 0.781);
     display: flex;
 }
 .sidebar {
@@ -75,7 +75,7 @@ main {
 }
 
 #portfolio li:hover {
-  background: #fa54ded7;
+  background: #ff8ebdf6;
 }
 
 #portfolio a {
@@ -91,7 +91,7 @@ main {
     }
   
     h1 {
-      font-size: 44px;
+      font-size: 25px;
     }
   
     h2 {
