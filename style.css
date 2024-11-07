@@ -1,5 +1,5 @@
 body {
-    background: rgb(125, 198, 205);
+    background:rgb(236, 56, 191);
     color: rgb(45, 45, 45);
     padding: 10px;
     font-family: arial;
@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
+    background: rgb(167, 244, 247);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -37,7 +37,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background: hsla(345, 90%, 54%, 0.781);
     display: flex;
 }
 .sidebar {
@@ -68,14 +68,14 @@ main {
 }
 
 #portfolio li {
-  background: #fff;
+  background: #e469f0;
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
 }
 
 #portfolio li:hover {
-  background: #eee;
+  background: #fa54ded7;
 }
 
 #portfolio a {
